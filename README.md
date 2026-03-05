@@ -4,7 +4,7 @@ programa en paython con uso de while
 
 # diagrama de flujo 
 
-!(alt tex) (diagrama,png)
+![alt text](diagrama.png)
 
 # proceso 
 
